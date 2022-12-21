@@ -10,4 +10,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjarKalandarov&layout=compact&theme=radical) \
 [![wakatime](https://wakatime.com/badge/user/88ccc10a-612d-4628-b3f2-0ae194b36430.svg)](https://wakatime.com/@88ccc10a-612d-4628-b3f2-0ae194b36430)
 
-![snake svg](https://github.com/SanjarKalandarov/SanjarKalandarov/blob/output/github-contribution-grid-snake.svg)
+
+
