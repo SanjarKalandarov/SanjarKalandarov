@@ -10,8 +10,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjarKalandarov&layout=compact&theme=radical) \
 [![wakatime](https://wakatime.com/badge/user/88ccc10a-612d-4628-b3f2-0ae194b36430.svg)](https://wakatime.com/@88ccc10a-612d-4628-b3f2-0ae194b36430)
 
-[![trophy](https://github-profile-trophy.vercel.app/?SanjarKalandarov=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?SanjarKalandarov=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
