@@ -32,6 +32,5 @@ My coding time -
   <img title="Git"  src="https://avatars.githubusercontent.com/Git" alt="mysql" width="45" height="45"/>
  
   <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?Sanjarkalandarov=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
