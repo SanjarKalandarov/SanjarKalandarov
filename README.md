@@ -12,3 +12,27 @@
 
 
 
+My coding time -
+
+
+![snake svg](https://github.com/Sanjarkalandarov/blob/output/github-contribution-grid-snake.svg)
+
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+
+  <img title="PHP"  src="https://avatars.githubusercontent.com/php" alt="php" width="45" height="45"/>
+
+  <img title="Laravel"  src="https://avatars.githubusercontent.com/Laravel" alt="laravel" width="45" height="45"/>
+
+
+
+  
+
+  <img title="MySQL"  src="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" alt="mysql"     width="45" height="45"/>
+ 
+  <img title="Git"  src="https://avatars.githubusercontent.com/Git" alt="mysql" width="45" height="45"/>
+ 
+  <hr>
+
+
