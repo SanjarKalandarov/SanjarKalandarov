@@ -15,8 +15,6 @@
 My coding time -
 
 
-![snake svg](https://github.com/Sanjarkalandarov/blob/output/github-contribution-grid-snake.svg)
-
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
